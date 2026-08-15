@@ -3,3 +3,4 @@ A dynamic web application that generates random color palettes, allowing users t
 ## 🧠 What I Learned
 *::after CSS pseudo-element
 *Navigator: clipboard property
+*:active CSS pseudo-element
